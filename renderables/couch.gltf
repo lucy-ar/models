@@ -116,8 +116,8 @@
 	[
 		{
 			"byteLength" : 62136,
-			"name" : "model",
-			"uri" : "model.bin"
+			"name" : "couch",
+			"uri" : "couch.bin"
 		}
 	],
 	"materials" : 
